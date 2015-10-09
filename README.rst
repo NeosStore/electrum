@@ -1,4 +1,4 @@
-Electrum - lightweight Bitcoin client
+Electrum-TX - lightweight Transfercoin client
 =====================================
 
 ::
@@ -17,11 +17,11 @@ Electrum - lightweight Bitcoin client
 1. GETTING STARTED
 ------------------
 
-To run Electrum from this directory, just do::
+To run Electrum-TX from this directory, just do::
 
     ./electrum
 
-If you install Electrum on your system, you can run it from any
+If you install Electrum-TX on your system, you can run it from any
 directory.
 
 If you have pip, you can do::
@@ -37,8 +37,8 @@ If you don't have pip, install with::
 
 
 
-To start Electrum from your web browser, see
-http://electrum.org/bitcoin_URIs.html
+To start Electrum-TX from your web browser, see
+http://electrum.org/transfercoin_URIs.html
 
 
 
